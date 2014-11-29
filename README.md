@@ -5,10 +5,9 @@ A twitter bot that posts Famous quotes every day on Twitter without intervention
 The main difference between this bot and others is data posted is purely fetched by Spiders and stored in
 MongoDB.
 
-Twitter allows only 140 characters of text.So Quotes will be much longer,but if quote is converted into
-image it can be uploaded as a media file.
+Twitter allows only 140 characters length of text,but quotes can be much longer.Inorder to overcome that issue ,if quote is converted into image it can be uploaded as a media file and serves the purpose.
 
-So this project uses an API for converting text to Image,and then upload it to Twitter.
+So this project uses an API for converting text to Image,and then uploads it to Twitter.
 
 Quotes will have the subject according to day in a month,means every 2nd of month Love Quotes will be posted,
 3rd Inspiration quotes,etc.Daily Maximum 120 Quotes will be posted at maximum.For every 5 minutes,bot checks the
