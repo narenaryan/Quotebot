@@ -1,0 +1,42 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CLore+is+my+favorite+kind+of+story.+Because+it%27s+not+only+historical%2C+it%27s+a+lie+everyone+knows+is+a+lie+but+tells+anyway.+I+love+that.+Of+course+every+story+I+tell+is+true.+Completely+true.+Completely+and+utterly+at+least+five-eighths+of+the+way+to+being+true%2C+which+is+truer+than+any+piece+of+lore+and+truer+than+most+truths+you%27ll+hear.%E2%80%9D%0A---%0AKevin+Sampsell+editor+%22Shanghaied%22+by+Gigi+Little&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CThere+are+many+things+which+can+not+be+expressed+by+words.%0A---%0AToba+Beta&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CA+disciple%3A+I+am+worried+about+human+suffering+all+over+the+world.+What+is+the+solution%3FSpiritual+leader%3A+The+solution+to+our+miseries+lie+within+central+atom+of+our+being%2C+%E2%80%98I%E2%80%99.+Once+this+central+atom+transcends+to+%E2%80%98WE%E2%80%99%2C+human+sufferings+can+be+resolved.%E2%80%9D%0A---%0ASantosh+Kalwar&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CWe%E2%80%99re+fine.%E2%80%99%0A---%0ARick+Riordan&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /HMSUa.png HTTP/1.1" 200 3641
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CWorship+your+body%2C+beauty%2C+and+sexual+allure+and+you+will+die+a+million+deaths+before+they+finally+grieve+you.%E2%80%9D%0A---%0ADavid+Foster+Wallace&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /2kY.png HTTP/1.1" 200 13833
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CWhen+you+are+beloved+and+express+gratitude+like+the+fragrance+of+a+beautiful+flower%2C+you+are+happy.%E2%80%9D%0A---%0ADebasish+Mridha&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /nv5XV.png HTTP/1.1" 200 12935
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CCressida%3A+My+lord%2C+will+you+be+true%3F%0A---%0AWilliam+Shakespeare&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /x3YD.png HTTP/1.1" 200 7741
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=FFFFE0&text=%E2%80%9CA+PRIME+TRUTH+-+MAN+IS+SELFISH%0A---%0AWilliam+J.+Federer&bcolor=32CD32&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /rbUxwwTk.png HTTP/1.1" 200 6165
+DEBUG:root:Posted at Sun Nov 30 00:00:00 2014
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CExperience+has+taught+us+that+we+have+only+one+enduring+weapon+in+our+struggle+against+mental+illness%3A+the+emotional+discovery+and+emotional+acceptance+of+the+truth+in+the+individual+and+unique+history+of+our+childhood.%E2%80%9D%0A---%0AAlice++Miller&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /Qf9pK.png HTTP/1.1" 200 18340
+DEBUG:root:Posted at Sun Nov 30 00:00:00 2014
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CSometimes+what+we+want+isn%27t+what+we+need.%E2%80%9D%0A---%0AGena+Showalter&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /CWqRMmF.png HTTP/1.1" 200 7089
+DEBUG:root:Posted at Sun Nov 30 00:00:00 2014
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?color=000000&text=%E2%80%9CTo+love+someone+with+all+of+your+heart+requires+reaching+them+where+they+are+with+the+only+words+they+can+understand.%E2%80%9D%0A---%0AShannon+L.+Alder&bcolor=FFFFFF&font=arial&type=png&size=20 HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): img4me.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /CFiVqqkP.png HTTP/1.1" 200 12928
+DEBUG:root:Posted at Sun Nov 30 00:00:00 2014
