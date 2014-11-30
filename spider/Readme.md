@@ -1,0 +1,1 @@
+This is the spider written in Dragline in order to fetch the quotes from a well known website.
