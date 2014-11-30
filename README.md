@@ -16,5 +16,7 @@ connection automatically when system is active and posts the Quote image.
 Two APIs Twitter API,Img4free API are used to achieve the task.  
 
 tweetit.py creates a class for encapsulating user details.
-beforeact.py do all housekeeping task and sets every thing ready for Quotebot to run
-dayscats.pickle consists of mapping of month day -> category 
+beforeact.py do all housekeeping task and sets every thing ready for Quotebot to run.
+dayscats.pickle consists of mapping of month day -> category.
+
+postlog.log stores all logs of posted quotes and also network statistics
